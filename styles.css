@@ -216,7 +216,7 @@ header {
 @media (max-width: 768px) {
   .hero::before {
     width: calc(100% - 2rem);
-    height: 90vh;
+    height: 100dvh;
     margin-top: -1rem;
   }
 }
